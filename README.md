@@ -6,7 +6,7 @@ PT-BR
 OBS: A sala de reunião será aberta no seu browser padrão no Windows
 
 Requerimentos do sistema:
-°Windows 10 ( estou trabalhando para atender outros sistemas operacionais)
+°Windows 10 ( em versoões anteriores do Windows, ao invés de .bat, é .cmd)
 °Python instalado
 
 Passo 1:
