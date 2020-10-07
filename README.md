@@ -5,9 +5,10 @@
 
 OBS: A sala de reunião será aberta no seu browser padrão no Windows
 
-# Requerimentos do sistema:
-°Windows 10 ( em versoões anteriores do Windows, ao invés de .bat, é .cmd)
-°Python instalado
+## Requerimentos do sistema:
+
+### Windows 10 ( em versões anteriores do Windows, ao invés de .bat, é .cmd)
+### Python instalado
 
 ## Passo 1:
 Adaptar o código de "Link_constante.py", isto é, colocar o link da sua aula entre o ' '
