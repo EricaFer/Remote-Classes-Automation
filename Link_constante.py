@@ -3,7 +3,7 @@ webbrowser.open('link da aula/class link', new=2)
 
 '''PT-BR
 Esse código é caso as suas aulas de determinada matéria sempre use o mesmo link
-se new=1, uma nova janela se abrirá 
+se new = 1, uma nova janela se abrirá 
 se new = 2, uma nova aba se abrirá
 '''
 '''ENG
