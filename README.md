@@ -26,6 +26,8 @@ Por exemplo, o meu ficou assim:
 "C:\Users\erica\Documents\PLE_Automation\Modelagem.py"
 pause
 
+# OBS: Tem que ser entre " " e não ' '
+
 ## Passo 4:
 Salvar esse arquivo com a terminação .bat
 
